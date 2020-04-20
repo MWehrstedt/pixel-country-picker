@@ -14,6 +14,7 @@ Flags implemented:
 ### Deployment
 
 - Just open index.html
+For a demo, see http://lemmyhawkins.de/flagdemo/
 
 ### Credits
 
