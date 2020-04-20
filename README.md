@@ -1,6 +1,12 @@
 # Pixel Country Picker
+Forked from https://github.com/akiyamasho/pixel-country-picker
 
-Currently only works with USA and Japan.
+Flags implemented:
+- USA
+- Japan
+- Argentina
+- France
+- Germany
 
 ![](demo_murica.gif)
 ![](demo_日本.gif)
